@@ -8,7 +8,7 @@ def initialize(name)
 end
 
 def add_project(project)
-
+@backed_projects << project
 end
 
 end
